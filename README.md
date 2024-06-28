@@ -32,13 +32,9 @@ Passionate Full Stack Developer transitioning from over 15 years in production e
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### Learning Program 👨‍🎓
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-### Contact Me 🔥
+### Contact Me 📞
 
 [![GitHub](https://github.com/Pops47/pops47/blob/main/assets/images/github.png)](https://github.com/tanguyjulien56)&nbsp;
 [![LinkedIn](https://github.com/Pops47/pops47/blob/main/assets/images/linkedin.png)](https://www.linkedin.com/in/julientanguy56)&nbsp;

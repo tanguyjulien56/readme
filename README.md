@@ -4,7 +4,7 @@
 
 Passionate Full Stack Developer transitioning from over 15 years in production engineering, project management, and continuous improvement. Certified in full stack development, with experience in open source projects. Combining technical skills with management expertise
 
-<img src="https://scontent-lhr6-2.xx.fbcdn.net/v/t39.30808-6/393938864_10161099201969820_588150169685840793_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=eetrpGmxxDsQ7kNvgH_TKcH&_nc_ht=scontent-lhr6-2.xx&oh=00_AYDEu4aExNTdTpXNvi1iS2yKX1xXqTCUon8Kdh6JkNvtoA&oe=6684EF96" alt="Cycling" width="400" height="300">
+<img src="https://scontent-lhr6-2.xx.fbcdn.net/v/t39.30808-6/393938864_10161099201969820_588150169685840793_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=eetrpGmxxDsQ7kNvgH_TKcH&_nc_ht=scontent-lhr6-2.xx&oh=00_AYDEu4aExNTdTpXNvi1iS2yKX1xXqTCUon8Kdh6JkNvtoA&oe=6684EF96" alt="Cycling" width="400" >
 
 ### Hi, I'm Julien Tanguy 👋
 
